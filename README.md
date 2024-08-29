@@ -1,4 +1,5 @@
-👋 Hi, I'm Ritesh Bag
+
+##  👋 Hi, I'm Ritesh Bag
 
 Welcome to my GitHub! I'm a passionate software engineer with a strong focus on full-stack web development, AI research, and innovative independent projects.
 
@@ -24,8 +25,6 @@ Full Stack Web Development Bootcamp - Udemy, Dr. Angela Yu Certificate
 Email: riteshawk.ms@gmail.com
 LinkedIn: ritesh-bag-11996b220
 GitHub: rbag1
-## Hi there 👋
-
 <!--
 **rbag1604/rbag1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
